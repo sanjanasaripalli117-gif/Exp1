@@ -1,1 +1,4 @@
 Welcome to GitHub Sanjana 
+Created a new repositary named Exp1 and README 
+upload the file hello.txt and commit changes.
+edit the file on github interface and again commit changes
