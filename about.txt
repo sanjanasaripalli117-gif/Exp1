@@ -1,0 +1,3 @@
+Sanjana
+BCA
+Learned to create git hub account, upload hello.text, create about.file and devops lifecycle in diagram.net and student information system and face recognisaition . upload them in github
